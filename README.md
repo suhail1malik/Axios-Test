@@ -12,6 +12,12 @@ Features:
 - **Backend:** Node.js / Express (API)
 - **Styling:** CSS / Tailwind (optional)
 
+for .env 
+MONGO_URI=yourmongostring
+JWT_SECRET=supersecurekey
+PORT=5100
+UPLOADS_FOLDER=uploads
+
 ## 📦 Installation
 
 ```bash
